@@ -1,0 +1,12 @@
+# Terpz710 waz here :p
+
+# Eachtime the player joins it will pick a random message from the list below and send it to the player.
+
+# Add as many lines as needed.
+
+# {player} = The players name
+
+messages:
+  - "Welcome to the server, {player}!"
+  - "Enjoy your stay, {player}!"
+  - "Greetings, {player}! Have a great time!"
